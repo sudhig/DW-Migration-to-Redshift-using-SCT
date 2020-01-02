@@ -6,9 +6,9 @@ In this lab, you will migrate a sample Oracle data warehouse to Amazon Redshift.
 
 Follow these steps to get started:
 
-1. Download zip file scripts.zip, which contains Lab instructions guide (Instructions_Migrate_ODW_to_Redshift_using_AWS_SCT.pdf), SQL File (SQLfile.txt), Policy file (S3-IAM-Policies.txt) and AWS CloudFormation template.
+1. Download [scripts.zip](https://github.com/sudhig/DW-Migration-to-Redshift-using-SCT/blob/master/scripts.zip). It contains Lab instructions guide (Instructions_Migrate_ODW_to_Redshift_using_AWS_SCT.pdf), SQL File (SQLfile.txt), Policy file (S3-IAM-Policies.txt) and AWS CloudFormation template.
 
-2. Open AWS Event Engine dashboard: https://dashboard.eventengine.run/dashboard
+2. Open AWS Event Engine dashboard: https://dashboard.eventengine.run/dashboard.
    Enter "Team Hash" code, provided by lab instructor, and click "Accept terms & Login".
 
 3. Click “AWS Console” then "Open AWS Console" to access AWS console of the AWS account created for you using AWS event engine. Please make sure AWS Region eu-west-1 (Ireland) is selected throughout the workshop.
