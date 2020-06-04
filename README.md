@@ -11,7 +11,7 @@ Follow these steps to get started:
 
 2. Apply the AWS usage credits to your AWS Account. Log into your AWS account and click on your name on the upper right corner and select "My Account from the menu. On the left side of the My Account page, select "Credits" and enter the code you were given.
 
-3. Download zip file: [D1S04.zip](https://tiny.amazon.com/1f34lh7i0/D1S04)  which contains
+3. Download zip file: [D1S04.zip](https://github.com/sudhig/DW-Migration-to-Redshift-using-SCT/blob/master/scripts.zip)  which contains
          AWS CloudFormation template,
          Lab instructions guide,
          SQL File, and
@@ -19,7 +19,7 @@ Follow these steps to get started:
 
 4. Open AWS Management Console and choose AWS Region eu-west-1 (Ireland)
 
-5. Follow lab guide instructions [D1S04 Lab Instructions](https://tiny.amazon.com/1au15p9uc/D1S04LabGuide)
+5. Follow lab guide guide [instructions](D1S04 - Lab Instruction - Migrate Your On-Premises Data Warehouse to Amazon Redshift with AWS SCT.pdf) - you downloded in previous step.
 
 6. Once the instructor has completed the overview, use above lab guide to migrate DW to Amazon Redshift.
 
@@ -32,7 +32,7 @@ Follow these steps to get started:
 
 Follow these steps to get started:
 
-1. Download [scripts_ee.zip](https://github.com/wrbaldwin/da-week/blob/master/Labs/DW-Migration-to-Redshift-using-SCT/scripts_ee.zip). It contains Lab instructions guide (Instructions_Migrate_ODW_to_Redshift_using_AWS_SCT.pdf), SQL File (SQLfile.txt), Policy file (S3-IAM-Policies.txt) and AWS CloudFormation template.
+1. Download [scripts_ee.zip](https://github.com/sudhig/DW-Migration-to-Redshift-using-SCT/blob/master/scripts_ee.zip). It contains Lab instructions guide (Instructions_Migrate_ODW_to_Redshift_using_AWS_SCT.pdf), SQL File (SQLfile.txt), Policy file (S3-IAM-Policies.txt) and AWS CloudFormation template.
 
 2. Open AWS Event Engine dashboard: https://dashboard.eventengine.run/dashboard.
    Enter "Team Hash" code, provided by lab instructor, and click "Accept terms & Login".
